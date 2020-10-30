@@ -4,3 +4,5 @@ Esta otra línea la estoy creando y la de arriba la borré.
 No cambio nada en la primera línea pero voy a borrar una línea de espacio innecesaria.
 
 Voy haciendo otra línea más para ver qué talco.
+
+Ahora creo un párrafo nuevo, veamos a ver qué tal sale todo esto pa ver si puedo comenzar a trabajar dentro de unos meses como desarrollador web, espero que así sea.
