@@ -2,3 +2,5 @@ Probando, probando el uso de git con Platzi.
 Esta es la línea de texto #2 y esto es un archivo de texto plano, si presiono Alt + Z entonces todo el texto se justifica para que pueda caber dentro de la ventana, y eso me parece perfecto de acá hasta que compre un nuevo monitor, o un nuevo escritorio y una nueva pc, como debería ser.
 Esta otra línea la estoy creando y la de arriba la borré.
 No cambio nada en la primera línea pero voy a borrar una línea de espacio innecesaria.
+
+Voy haciendo otra línea más para ver qué talco.
